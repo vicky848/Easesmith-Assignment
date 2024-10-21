@@ -1,0 +1,30 @@
+.footer-container{
+    height: 300px;
+    width: 100vw;
+    background-color: rgb(192, 231, 192);
+}
+.container{
+    text-align: center;
+    padding-top: 40px;
+}
+.subscribe-button{
+    background-color: rgb(22, 141, 22);
+    color: #ffffff;
+    height: 34px;
+    width: 132px;
+    border-radius: 6px;
+    border-width: 0px;
+    cursor: pointer;
+}
+.paragraph{
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+    padding-top: 30px;
+}
+.input{
+    height: 30px;
+    width: 400px;
+    margin-top: 30px;
+    text-align: center;
+}

@@ -1,0 +1,98 @@
+.image-container{
+    height: 250px;
+    width: 250px;
+    border: 1px solid rgb(117, 115, 115);
+    margin-top: 30px;
+    margin-left: 10px;
+    
+}
+.button-view-product{
+    background-color: #008000;
+    color: #ffffff;
+    height: 30px;
+    width: 250px;
+    margin-top: 66px;
+    border-width: 0px;
+    cursor: pointer;
+}
+
+.star{
+    color: #ffff00;
+    margin: 3px;
+    padding-top: 5px;
+
+}
+
+
+
+.image{
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+    
+}
+.title{
+    padding-top: 20px;
+    font-size: 25px;
+    font-famaly: "Roboto";
+    font-weight: 700;
+}
+.text{
+    padding-top: 10px;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+.span-star{
+  
+    margin: 10px;
+
+}
+
+.ranking{
+    font-size: 16px;
+    font-weight: 500;
+   
+    margin: 5px;
+}
+.price{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+
+.button-add-to-cart{
+
+    background-color: #008000;
+    color: #ffffff;
+    height: 32px;
+    width: 126px;
+    border-radius: 6px;
+    border-width: 0px;
+    cursor: pointer;
+    margin: 10px;
+   
+
+}
+
+.button-buy-on-rent{
+    background-color: #ffffff;
+    color: #008000;
+    height: 32px;
+    width: 126px;
+    border-radius: 6px;
+   
+    cursor: pointer;
+    
+    
+
+
+
+}
+
+
+.content{
+  margin-left: 40px;
+    
+}

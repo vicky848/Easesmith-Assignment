@@ -1,0 +1,25 @@
+.list-container{
+    list-style-type: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    flex-basis: 35%;
+    flex-wrap: wrap;
+}
+
+/* .view-more-button{
+    background-color: green;
+    color: #ffffff;
+    height: 34px;
+    width: 134px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 30px;
+   
+}
+.view-more-button-container{
+    text-align: center;
+} */
